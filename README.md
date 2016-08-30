@@ -14,9 +14,10 @@ This course provides a framework of core skills in linear algebra, analysis, and
 ### Class Information
 
 Class Location: 44 Tehama St, 3rd Floor, gU Classroom   
-Class Time: 9:00 AM - 10:30 AM PST, M-T-Th-F, including lab hours   
+Class Time: 9:00 AM - 10:30 AM PST, M-T-Th-F 
 Instructor Assisted Lab Hours: 10:30 AM - 12:00 PM PST, M-T-Th-F   
-Office Hours: M-T-Th-F 1:00-2:00 PM or By Appointment using Slack or email.
+Office Hours - Jared: W 9:00-12:00 PM and by appointment
+Office Hours - Amy: After class on lecture days and by appointment
 
 ### Course Delivery
 
@@ -27,9 +28,9 @@ There are four scheduled lectures per week, 1.5 hours each for a total of 6 hour
 
 Daily: At the beginning of class every day the class will be given a 10-minute Readiness Assessment Test. This test examines the student's mastery of the course work taught the day before and constitutes a major part of the overall grade (25%).
 
-Lab: Once a week, the students are given an in-class laboratory exercise exploring the programming topics discussed over the previous two weeks. Graded labs are due the day after they are given (30%).
+Lab: The students are regularly given an in-class laboratory exercise exploring the programming topics discussed over the previous two weeks. Graded labs are due the day after they are given (30%).
 
-Take-Home Final: A comprehensive take-home final project is required (30%). Some ideas for a take home project will be provided a little later in the course, although you may begin at any time, subject to the approval of the professor. The project must demonstrate your mastery of the subjects taught in this class. (35%)
+Take-Home Final: A comprehensive take-home final project is required. Some ideas for a take home project will be provided a little later in the course, although you may begin at any time, subject to the approval of the professor. The project must demonstrate your mastery of the subjects taught in this class. (35%)
 
 Mastery Tracker: Your progress in the class will be tracked by notations in the mastery tracker (learn.galvanize.com). The mastery tracker grades reflect the instruction team's best assessment of your skill level in the given proficiency. These notations can change up or down dependent on your performance in the class. Your mastery tracker score is only counted towards your **final** grade. (10%)
 
@@ -106,7 +107,6 @@ Monday, Tuesday, Thursday, Friday except for holiday schedules, which will be an
 | --------- | -------- |
 | 9:00-10:30  | Lecture |
 | 10:30-12:00 | Lab    |
-| 1:00-2:00 | Office Hours|
 
 These are the instructor supported class hours. Instructors may be available on a case-by-case basis afterhours by appointment.
 
